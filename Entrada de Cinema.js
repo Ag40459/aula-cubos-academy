@@ -4,6 +4,6 @@
 // MAIOR DE 60 MEIA ENTRADA
 
 const idade = 15;
-const temcarteirinha = true;
+const temcarteirinha = false;
 console.log("teste");
 
